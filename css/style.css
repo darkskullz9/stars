@@ -1,0 +1,13 @@
+body{
+    background-color: #FFF;
+}
+
+.stars {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    overflow: hidden;
+
+    color: #FFF;
+}
